@@ -1,0 +1,46 @@
+.header-box{
+    width: 1,220px;
+    height: 65px;
+position: fixed;
+display: flex;
+margin-top: 50px;
+margin-left: 350px;
+
+
+}
+.logo-1{
+    width: 42.17px;
+height: 29px;
+top: 19.5px;
+
+}
+.text-1{
+font-size: 25px;
+font-weight: 800;
+}
+.nav1{
+    width: 825px;
+    height: 65px;
+}
+.navigation{
+  display: flex;
+  
+}
+.text2{
+    width: 601px;
+height: 22px;
+top: 21.5px;
+color:  #37393F;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.active{
+    background: #6B77E5;
+    color: #FFFFFF;
+padding: 21px, 35px, 22px, 35px;
+gap: 10px;
+}
